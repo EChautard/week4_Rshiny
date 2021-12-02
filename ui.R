@@ -22,7 +22,7 @@ shinyUI(fluidPage(
         sidebarPanel(
             
             img(src = "OIP.jpeg", height = 108, width = 180),br(),
-            'Adélie, Chinstrap and gentoo penguin species.',br(),'Photo credit: Buzzle',br(),br(),
+            'Adelie, Chinstrap and gentoo penguin species.',br(),'Photo credit: Buzzle',br(),br(),
 
             h3("Selection criteria"),br(),
             h4("1: Select penguin specie(s)"),
